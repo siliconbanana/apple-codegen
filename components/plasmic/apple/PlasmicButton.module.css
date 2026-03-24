@@ -1,0 +1,68 @@
+.root {
+  display: inline-flex;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  justify-self: flex-start;
+  padding: 12px 28px;
+}
+.roottype__default {
+  background: #ffffff;
+}
+.rootrounded {
+  border-radius: 25px;
+}
+.freeBox {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  left: auto;
+  top: auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  column-gap: 2px;
+}
+.iconRightSvgXmlnsHttpWwwW3Org2000SvgWidth21Height21ViewBox002121GFillNoneFillRuleEvenoddStrokeCurrentColorStrokeLinecapRoundStrokeLinejoinRoundCircleCx85Cy85R5PathDm17571175L1212GSvg {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  height: 1em;
+  display: none;
+}
+.iconRightSvgXmlnsHttpWwwW3Org2000SvgWidth21Height21ViewBox002121GFillNoneFillRuleEvenoddStrokeCurrentColorStrokeLinecapRoundStrokeLinejoinRoundCircleCx85Cy85R5PathDm17571175L1212GSvgwithIcons_withPrefixIcon {
+  display: block;
+}
+.slotTargetText {
+  white-space: pre;
+}
+.slotTargetTextsize_large {
+  font-size: 20px;
+}
+.slotTargetTextsize_small {
+  font-size: 14px;
+}
+.slotTargetTextbold {
+  font-weight: 600;
+}
+.slotTargetTextsize_large_type_link {
+  color: var(--token-ptBPpw7B1SQH);
+}
+.slotTargetIconLeft {
+  color: #535353;
+}
+.slotTargetIconLeftsize_large_type_link {
+  color: var(--token-ptBPpw7B1SQH);
+}
+.svg___4CR7X {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  height: 1em;
+}

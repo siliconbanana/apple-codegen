@@ -1,0 +1,152 @@
+.root {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  position: relative;
+  background: #ffffff;
+  height: var(--token-ZHzfDOU4gAZZ);
+  flex-shrink: 1;
+  grid-column-start: 1 !important;
+  grid-column-end: -1 !important;
+  padding: 0px;
+}
+.rootdark {
+  background: #000000;
+}
+.rootreverse {
+  flex-direction: column;
+  column-gap: 0px;
+}
+.freeBox__y2VKf {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: var(--token-ZHzfDOU4gAZZ);
+  max-width: 100%;
+  min-width: 0;
+  flex-shrink: 0;
+  padding: 0px;
+}
+.img__kegK {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  left: auto;
+  top: auto;
+  width: 100%;
+  height: 100%;
+  object-position: 50% bottom;
+  min-width: 0;
+  min-height: 0;
+}
+.img__kegK > picture > img {
+  object-fit: cover;
+  object-position: 50% bottom;
+}
+.imgisMobileView__kegKvsmlB {
+  display: none;
+}
+.img___6Lv4O {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+  display: none;
+}
+.img___6Lv4O > picture > img {
+  object-fit: cover;
+}
+.imgisMobileView___6Lv4OvsmlB {
+  display: block;
+}
+.freeBox__qiuYd {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  left: 0px;
+  top: 0px;
+  order: 1;
+  row-gap: 8px;
+  min-width: 0;
+  padding: 47px;
+}
+.freeBoxreverse__qiuYdA6WtZ {
+  top: auto;
+  bottom: 0px;
+}
+.h2 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  min-width: 0;
+}
+.slotTargetTitle {
+  text-align: center;
+}
+.slotTargetTitledark {
+  color: var(--token-RctXMDHXXN71);
+}
+.h3 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  min-width: 0;
+}
+.slotTargetDescription {
+  text-align: center;
+}
+.slotTargetDescriptiondark {
+  color: var(--token-RctXMDHXXN71);
+}
+.freeBox__fBn0Q {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  column-gap: 10px;
+  min-width: 0;
+  padding: 8px;
+}
+.button__lVeit:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg__m4Qb5 {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  height: 1em;
+}
+.button___098C0:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.svg___4OpdX {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  height: 1em;
+}
